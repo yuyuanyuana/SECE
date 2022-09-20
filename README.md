@@ -6,7 +6,7 @@ Spatially resolved transcriptomics sequencing (ST-seq) can profile gene expressi
 ![Fig2](https://user-images.githubusercontent.com/53144397/191158987-a855f2a8-cf23-4930-a209-079b9a6d1f8c.png)
 
 
-# Installation
+## Installation
 
 Before installing SECE, please ensure that the software dependencies are installed.
 
@@ -31,6 +31,6 @@ Then SECE can be used in python:
 ```python
    import SECE
 ```
-# Tutorial
+## Tutorial
 
-# Citation
+## Citation
