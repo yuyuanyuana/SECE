@@ -10,10 +10,6 @@ Welcome to SECE's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Brain/index
-   OB/index
-   Cortex/index
-
 
 Indices and tables
 ==================
