@@ -11,8 +11,6 @@ Spatially resolved transcriptomics sequencing (ST-seq) can profile gene expressi
 Before installing SECE, please ensure that the software dependencies are installed.
 
    ```python
-    #!/usr/bin/python3
-   
    scanpy==1.9.1
    pytorch==1.4.0
    torch-geometric==2.0.4
@@ -24,16 +22,15 @@ Before installing SECE, please ensure that the software dependencies are install
    ```
 SECE can be downloaded via pip:
 
-.. code-block:: python
+```python
 
    pip install SECE
-
+```
 Then SECE can be used in python:
 
-.. code-block:: python
-
+```python
    import SECE
-
+```
 # Tutorial
 
 # Citation
