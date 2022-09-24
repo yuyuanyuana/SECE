@@ -1,0 +1,12 @@
+setup.py
+SECE/__init__.py
+SECE/model.py
+SECE/module.py
+SECE/utils.py
+SECE/utils_clusters.py
+SECE/utils_dataset.py
+SECE/utils_loss.py
+SECE.egg-info/PKG-INFO
+SECE.egg-info/SOURCES.txt
+SECE.egg-info/dependency_links.txt
+SECE.egg-info/top_level.txt
