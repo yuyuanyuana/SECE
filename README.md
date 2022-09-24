@@ -27,4 +27,7 @@ Then SECE can be used in python:
 ```
 ## Tutorial
 
+Tutorials and installation guides are available in
+    the [documentation](https://sece-tutorial.readthedocs.io/en/latest/Installation.html).
+
 ## Citation
