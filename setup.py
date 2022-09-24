@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='SECE',  
     packages=find_packages(),
-    version='1.0.0',
+    version='1.0.3',
     description='Spatial region-related embedding and Cell type-related embedding of spatial transcriptomics',
     author='yuanyuanyu',
     license='MIT',
